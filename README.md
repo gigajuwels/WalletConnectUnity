@@ -6,13 +6,20 @@
 <h1 align="center"> 
 
 WalletConnectUnity</h1>
-This project is an extension of WalletConnectSharp that brings WalletConnect to Unity. This project has been built using Unity 2019.4.28f1 (LTS), and has been tested using 2020.1.14f1. 
-
-This project includes a working demo scene (**TODO**: needs to show sample transactions)
+This project is an extension of [WalletConnectSharp](https://github.com/WalletConnect/WalletConnectSharp) that brings WalletConnect to Unity. This project has been built using Unity 2019.4.28f1 (LTS), and has been tested using 2020.1.14f1. This project includes a working demo scene (**TODO**: needs to show sample transactions).
 
 #### :warning: **This is beta software**: This software is currently in beta and under development. Please proceed with caution, and open a new issue if you encounter a bug :warning:
 
+## Getting Started
+WalletConnectUnity currently supports the following Unity Versions
+| Unity Version | Supported? |
+| --- | ----------- |
+| 2019.4.28f1 | :heavy_check_mark: |
+| 2020.1.14f1  | :heavy_check_mark: |
+| 2018.4.11f0  | :x: |
 ## Installation
+
+
 
 *To use WalletConnectUnity, you would need Unity2019.4.28f1 or above.* 
 
