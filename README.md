@@ -1,5 +1,11 @@
+<a href="https://walletconnect.com/">
+	<p align="center">
+  <img src="https://user-images.githubusercontent.com/31494151/167982569-b81fa1f3-3a77-49d0-b36f-db1565f133c4.png" alt="Wallet Connect" width="75" />
+</p>
+</a>
+<h1 align="center"> 
 
-# WalletConnectUnity
+WalletConnectUnity</h1>
 This project is an extension of WalletConnectSharp that brings WalletConnect to Unity. This project has been built using Unity 2019.4.28f1 (LTS), and has been tested using 2020.1.14f1. 
 
 This project includes a working demo scene (**TODO**: needs to show sample transactions)
